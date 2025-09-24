@@ -43,4 +43,29 @@
 //   console.log(stars)
 // }
 
+// step1: number of rows and cols enni vunnai 
 
+// let str="hellozohocorporation"
+// let n=str.length
+// let index1=0
+// let index2=n-1
+// for(let i=0;i<str.length;i++){
+//   let stars=""
+//   for(let j=0;j<str.length;j++){
+//     if(i==j){
+//       stars+=str[index1]+" "
+//       index1+=1 // 
+//       if(i==j && i+j==n-1){
+//         index2-=1
+//       }
+      
+//     }else if(i+j==n-1){
+//       stars+=str[index2]+" "
+//       index2-=1
+//     }else{
+//       stars+="  "
+//     }
+    
+//   }
+//   console.log(stars)
+// }
